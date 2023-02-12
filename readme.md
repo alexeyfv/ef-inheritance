@@ -1,4 +1,4 @@
-# Entity Framework Efficient Querying
+# Mapping strategies benchmark
 
 Before running any benchmark, do not forget to uncomment necessary line of code in `Program.cs`.
 
